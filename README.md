@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giacomomarzi, Assistant Professor (Tenured/RTDb) of Management at IMT School for Advanced Studies Lucca. 
+- 👋 I am Giacomo Marzi, Assistant Professor (Tenured/RTDb) of Management at IMT School for Advanced Studies Lucca. 
 
 - 📫 How to reach me at giacomo.marzi@imtlucca.it
 
