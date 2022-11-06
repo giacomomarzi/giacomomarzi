@@ -2,7 +2,7 @@
 
 - 📫 You can reach me at giacomo.marzi@imtlucca.it or https://gmarzi.com
 
-- :briefcase:
+- :briefcase: Institutional page: https://www.imtlucca.it/en/people/giacomo-marzi
 
 <!---
 giacomomarzi/giacomomarzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
