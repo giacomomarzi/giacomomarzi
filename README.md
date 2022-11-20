@@ -2,7 +2,8 @@
 
 - :computer: Creator of CLC Estimator with Marco Balzano, Leonardo Egidi (@LeoEgidi), and Alessandro Magrini
   - ShinhyApp: https://plsdeams.shinyapps.io/CLC_Estimator/
-  - Code on GitHub:  
+  - Code on GitHub:
+  - Published Paper:  
 
 - 📫 You can reach me at giacomo.marzi@imtlucca.it or https://gmarzi.com
 
