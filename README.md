@@ -1,6 +1,8 @@
 - 👋 I am Giacomo Marzi, Assistant Professor (Tenured/RTDb) of Management at IMT School for Advanced Studies Lucca. 
 
-- :computer:
+- :computer: Creator of CLC Estimator with Marco Balzano, Leonardo Egidi, and Alessandro Magrini
+- ShinhyApp: https://plsdeams.shinyapps.io/CLC_Estimator/
+- Code on GitHub:  
 
 - 📫 You can reach me at giacomo.marzi@imtlucca.it or https://gmarzi.com
 
