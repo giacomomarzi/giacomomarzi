@@ -5,6 +5,9 @@
   - Code: https://github.com/LeoEgidi/clc *(currenly in private mode)*
   - Published Paper: *In review*
   - Open Access Version of the Paper (Post-Print): *In review*
+  - To cite:
+    - App:
+    - Paper:
 
 - 📫 You can reach me at giacomo.marzi@imtlucca.it or https://gmarzi.com
 
