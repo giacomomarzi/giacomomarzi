@@ -6,7 +6,7 @@
   - Published Paper: *In review*
   - Open Access Version of the Paper (Post-Print): *In review*
   - To cite (APA 7th):
-    - Paper: *In review*
+    - **Paper**: *In review*
     - **App:** Marzi, G., Balzano, M., Egidi, L., Magrini, A. (2023). Concegeric Latent Contruct Estimator - CLC Estimator [Computer software].
       https://plsdeams.shinyapps.io/CLC_Estimator/
    
