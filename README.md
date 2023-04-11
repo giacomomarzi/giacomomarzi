@@ -3,7 +3,7 @@
 - :computer: Creator of the CLC Estimator with Marco Balzano, Leonardo Egidi (@LeoEgidi), and Alessandro Magrini (@alessandromagrini)
   - Shiny App: https://plsdeams.shinyapps.io/CLC_Estimator/
   - Source Code: https://github.com/LeoEgidi/clc
-  - Published Paper: *Available soon*
+  - Published Paper: Marzi, G., Balzano, M., Egidi, L., Magrini, A. (2023). CLC Estimator: A Tool for Latent Construct Estimation via Congeneric Approaches in Survey     Research. Multivariate Behavioral Research. DOI: 10.1080/00273171.2023.2193718 - Post Print PDF - Published PDF
   - Open Access Version of the Paper (Post-Print): *Available soon*
   - To cite (APA 7th): *Available soon*
      
