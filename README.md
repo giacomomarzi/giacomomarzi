@@ -1,4 +1,4 @@
-I am Giacomo Marzi, Senior Assistant Professor (Tenured/RTDb) of Management at IMT School for Advanced Studies Lucca. 
+I am Giacomo Marzi, Associate Professor of Management at IMT School for Advanced Studies Lucca. 
 
  - To access **CLC Estimator** please refer to its official website:
    [https://clcestimator.com](https://clcestimator.com/)
