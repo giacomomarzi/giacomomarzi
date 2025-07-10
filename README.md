@@ -9,4 +9,4 @@ I am Giacomo Marzi, Associate Professor of Management at IMT School for Advanced
 
 📫 You can reach me at giacomo.marzi@imtlucca.it or https://gmarzi.com
 
-:briefcase: Institutional page: https://www.imtlucca.it/en/giacomo.marzi
+:briefcase: Institutional page: https://www.imtlucca.it/giacomo.marzi
