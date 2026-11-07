@@ -1,4 +1,4 @@
-I am Giacomo Marzi, Associate Professor of Management at Scuola IMT Alti Studi Lucca (Italy). [https://www.imtlucca.it/giacomo.marzi)
+I am Giacomo Marzi, Associate Professor of Management at Scuola IMT Alti Studi Lucca (Italy). https://www.imtlucca.it/giacomo.marzi
 
   - To access **K-Alpha Calculator** (Krippendorff's Alpha Calculator) please refer to its official website:
    [https://www.k-alpha.org/](https://www.k-alpha.org/)
